@@ -1,0 +1,7 @@
+Random_Genome_4000_SV_FILE_anno_All.txt
+Random_Genome_SV_Personalis_FILE_anno_All.txt
+RepeatMasker_LINE_500_FILE_anno_All.txt
+RepeatMasker_LTR_500_FILE_anno_All.txt
+RepeatMasker_SINE_500_FILE_anno_All.txt
+PersonalisGold_FILE_anno_All.txt
+1KG_Pilot_FILE_anno_All_Modified.txt

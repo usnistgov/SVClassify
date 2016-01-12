@@ -1,0 +1,45 @@
+svviz --type batch --summary /svviz_output/Personalis_PacBio_1.tsv --pacbio -b /PacBio/1.bam hs37d5.fa /input_vcf/Personalis_1.vcf > /svviz_output/Personalis_PacBio_1.log
+
+svviz --type batch --summary /svviz_output/Personalis_PacBio_2.tsv --pacbio -b /PacBio/2.bam hs37d5.fa /input_vcf/Personalis_2.vcf > /svviz_output/Personalis_PacBio_2.log
+
+svviz --type batch --summary /svviz_output/Personalis_PacBio_3.tsv --pacbio -b /PacBio/3.bam hs37d5.fa /input_vcf/Personalis_3.vcf > /svviz_output/Personalis_PacBio_3.log
+
+svviz --type batch --summary /svviz_output/Personalis_PacBio_4.tsv --pacbio -b /PacBio/4.bam hs37d5.fa /input_vcf/Personalis_4.vcf > /svviz_output/Personalis_PacBio_4.log
+
+svviz --type batch --summary /svviz_output/Personalis_PacBio_5.tsv --pacbio -b /PacBio/5.bam hs37d5.fa /input_vcf/Personalis_5.vcf > /svviz_output/Personalis_PacBio_5.log
+
+svviz --type batch --summary /svviz_output/Personalis_PacBio_6.tsv --pacbio -b /PacBio/6.bam hs37d5.fa /input_vcf/Personalis_6.vcf > /svviz_output/Personalis_PacBio_6.log
+
+svviz --type batch --summary /svviz_output/Personalis_PacBio_7.tsv --pacbio -b /PacBio/7.bam hs37d5.fa /input_vcf/Personalis_7.vcf > /svviz_output/Personalis_PacBio_7.log
+
+svviz --type batch --summary /svviz_output/Personalis_PacBio_8.tsv --pacbio -b /PacBio/8.bam hs37d5.fa /input_vcf/Personalis_8.vcf > /svviz_output/Personalis_PacBio_8.log
+
+svviz --type batch --summary /svviz_output/Personalis_PacBio_9.tsv --pacbio -b /PacBio/9.bam hs37d5.fa /input_vcf/Personalis_9.vcf > /svviz_output/Personalis_PacBio_9.log
+
+svviz --type batch --summary /svviz_output/Personalis_PacBio_10.tsv --pacbio -b /PacBio/10.bam hs37d5.fa /input_vcf/Personalis_10.vcf > /svviz_output/Personalis_PacBio_10.log
+
+svviz --type batch --summary /svviz_output/Personalis_PacBio_11.tsv --pacbio -b /PacBio/11.bam hs37d5.fa /input_vcf/Personalis_11.vcf > /svviz_output/Personalis_PacBio_11.log
+
+svviz --type batch --summary /svviz_output/Personalis_PacBio_12.tsv --pacbio -b /PacBio/12.bam hs37d5.fa /input_vcf/Personalis_12.vcf > /svviz_output/Personalis_PacBio_12.log
+
+svviz --type batch --summary /svviz_output/Personalis_PacBio_13.tsv --pacbio -b /PacBio/13.bam hs37d5.fa /input_vcf/Personalis_13.vcf > /svviz_output/Personalis_PacBio_13.log
+
+svviz --type batch --summary /svviz_output/Personalis_PacBio_14.tsv --pacbio -b /PacBio/14.bam hs37d5.fa /input_vcf/Personalis_14.vcf > /svviz_output/Personalis_PacBio_14.log
+
+svviz --type batch --summary /svviz_output/Personalis_PacBio_15.tsv --pacbio -b /PacBio/15.bam hs37d5.fa /input_vcf/Personalis_15.vcf > /svviz_output/Personalis_PacBio_15.log
+
+svviz --type batch --summary /svviz_output/Personalis_PacBio_16.tsv --pacbio -b /PacBio/16.bam hs37d5.fa /input_vcf/Personalis_16.vcf > /svviz_output/Personalis_PacBio_16.log
+
+svviz --type batch --summary /svviz_output/Personalis_PacBio_17.tsv --pacbio -b /PacBio/17.bam hs37d5.fa /input_vcf/Personalis_17.vcf > /svviz_output/Personalis_PacBio_17.log
+
+svviz --type batch --summary /svviz_output/Personalis_PacBio_18.tsv --pacbio -b /PacBio/18.bam hs37d5.fa /input_vcf/Personalis_18.vcf > /svviz_output/Personalis_PacBio_18.log
+
+svviz --type batch --summary /svviz_output/Personalis_PacBio_19.tsv --pacbio -b /PacBio/19.bam hs37d5.fa /input_vcf/Personalis_19.vcf > /svviz_output/Personalis_PacBio_19.log
+
+svviz --type batch --summary /svviz_output/Personalis_PacBio_20.tsv --pacbio -b /PacBio/20.bam hs37d5.fa /input_vcf/Personalis_20.vcf > /svviz_output/Personalis_PacBio_20.log
+
+svviz --type batch --summary /svviz_output/Personalis_PacBio_21.tsv --pacbio -b /PacBio/21.bam hs37d5.fa /input_vcf/Personalis_21.vcf > /svviz_output/Personalis_PacBio_21.log
+
+svviz --type batch --summary /svviz_output/Personalis_PacBio_22.tsv --pacbio -b /PacBio/22.bam hs37d5.fa /input_vcf/Personalis_22.vcf > /svviz_output/Personalis_PacBio_22.log
+
+svviz --type batch --summary /svviz_output/Personalis_PacBio_X.tsv --pacbio -b /PacBio/X.bam hs37d5.fa /input_vcf/Personalis_X.vcf > /svviz_output/Personalis_PacBio_X.log

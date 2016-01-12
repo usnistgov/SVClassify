@@ -1,0 +1,7 @@
+variant	sample	allele	key	value
+Deletion::17:81,025,597-81,025,682(85)	17	amb	count	26
+Deletion::17:81,025,597-81,025,682(85)	17	amb	reason_same_scores	26
+Deletion::17:81,025,597-81,025,682(85)	17	amb	alnScore_mean	6072.88461538
+Deletion::17:81,025,597-81,025,682(85)	17	amb	alnScore_std	2460.5816124
+Deletion::17:81,025,597-81,025,682(85)	17	amb	insertSize_mean	3041.61538462
+Deletion::17:81,025,597-81,025,682(85)	17	amb	insertSize_std	1231.6429639

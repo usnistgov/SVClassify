@@ -1,0 +1,45 @@
+svviz --type batch --summary /svviz_output/Personalis_validated_PlatGen_1.tsv -b /PlatGen/1.bam hs37d5.fa /input_VCF/Personalis_validated_1.vcf > /svviz_output/Personalis_validated_PlatGen_1.log
+
+svviz --type batch --summary /svviz_output/Personalis_validated_PlatGen_2.tsv -b /PlatGen/2.bam hs37d5.fa /input_VCF/Personalis_validated_2.vcf > /svviz_output/Personalis_validated_PlatGen_2.log
+
+svviz --type batch --summary /svviz_output/Personalis_validated_PlatGen_3.tsv -b /PlatGen/3.bam hs37d5.fa /input_VCF/Personalis_validated_3.vcf > /svviz_output/Personalis_validated_PlatGen_3.log
+
+svviz --type batch --summary /svviz_output/Personalis_validated_PlatGen_4.tsv -b /PlatGen/4.bam hs37d5.fa /input_VCF/Personalis_validated_4.vcf > /svviz_output/Personalis_validated_PlatGen_4.log
+
+svviz --type batch --summary /svviz_output/Personalis_validated_PlatGen_5.tsv -b /PlatGen/5.bam hs37d5.fa /input_VCF/Personalis_validated_5.vcf > /svviz_output/Personalis_validated_PlatGen_5.log
+
+svviz --type batch --summary /svviz_output/Personalis_validated_PlatGen_6.tsv -b /PlatGen/6.bam hs37d5.fa /input_VCF/Personalis_validated_6.vcf > /svviz_output/Personalis_validated_PlatGen_6.log
+
+svviz --type batch --summary /svviz_output/Personalis_validated_PlatGen_7.tsv -b /PlatGen/7.bam hs37d5.fa /input_VCF/Personalis_validated_7.vcf > /svviz_output/Personalis_validated_PlatGen_7.log
+
+svviz --type batch --summary /svviz_output/Personalis_validated_PlatGen_8.tsv -b /PlatGen/8.bam hs37d5.fa /input_VCF/Personalis_validated_8.vcf > /svviz_output/Personalis_validated_PlatGen_8.log
+
+svviz --type batch --summary /svviz_output/Personalis_validated_PlatGen_9.tsv -b /PlatGen/9.bam hs37d5.fa /input_VCF/Personalis_validated_9.vcf > /svviz_output/Personalis_validated_PlatGen_9.log
+
+svviz --type batch --summary /svviz_output/Personalis_validated_PlatGen_10.tsv -b /PlatGen/10.bam hs37d5.fa /input_VCF/Personalis_validated_10.vcf > /svviz_output/Personalis_validated_PlatGen_10.log
+
+svviz --type batch --summary /svviz_output/Personalis_validated_PlatGen_11.tsv -b /PlatGen/11.bam hs37d5.fa /input_VCF/Personalis_validated_11.vcf > /svviz_output/Personalis_validated_PlatGen_11.log
+
+svviz --type batch --summary /svviz_output/Personalis_validated_PlatGen_12.tsv -b /PlatGen/12.bam hs37d5.fa /input_VCF/Personalis_validated_12.vcf > /svviz_output/Personalis_validated_PlatGen_12.log
+
+svviz --type batch --summary /svviz_output/Personalis_validated_PlatGen_13.tsv -b /PlatGen/13.bam hs37d5.fa /input_VCF/Personalis_validated_13.vcf > /svviz_output/Personalis_validated_PlatGen_13.log
+
+svviz --type batch --summary /svviz_output/Personalis_validated_PlatGen_14.tsv -b /PlatGen/14.bam hs37d5.fa /input_VCF/Personalis_validated_14.vcf > /svviz_output/Personalis_validated_PlatGen_14.log
+
+svviz --type batch --summary /svviz_output/Personalis_validated_PlatGen_15.tsv -b /PlatGen/15.bam hs37d5.fa /input_VCF/Personalis_validated_15.vcf > /svviz_output/Personalis_validated_PlatGen_15.log
+
+svviz --type batch --summary /svviz_output/Personalis_validated_PlatGen_16.tsv -b /PlatGen/16.bam hs37d5.fa /input_VCF/Personalis_validated_16.vcf > /svviz_output/Personalis_validated_PlatGen_16.log
+
+svviz --type batch --summary /svviz_output/Personalis_validated_PlatGen_17.tsv -b /PlatGen/17.bam hs37d5.fa /input_VCF/Personalis_validated_17.vcf > /svviz_output/Personalis_validated_PlatGen_17.log
+
+svviz --type batch --summary /svviz_output/Personalis_validated_PlatGen_18.tsv -b /PlatGen/18.bam hs37d5.fa /input_VCF/Personalis_validated_18.vcf > /svviz_output/Personalis_validated_PlatGen_18.log
+
+svviz --type batch --summary /svviz_output/Personalis_validated_PlatGen_19.tsv -b /PlatGen/19.bam hs37d5.fa /input_VCF/Personalis_validated_19.vcf > /svviz_output/Personalis_validated_PlatGen_19.log
+
+svviz --type batch --summary /svviz_output/Personalis_validated_PlatGen_20.tsv -b /PlatGen/20.bam hs37d5.fa /input_VCF/Personalis_validated_20.vcf > /svviz_output/Personalis_validated_PlatGen_20.log
+
+svviz --type batch --summary /svviz_output/Personalis_validated_PlatGen_21.tsv -b /PlatGen/21.bam hs37d5.fa /input_VCF/Personalis_validated_21.vcf > /svviz_output/Personalis_validated_PlatGen_21.log
+
+svviz --type batch --summary /svviz_output/Personalis_validated_PlatGen_22.tsv -b /PlatGen/22.bam hs37d5.fa /input_VCF/Personalis_validated_22.vcf > /svviz_output/Personalis_validated_PlatGen_22.log
+
+svviz --type batch --summary /svviz_output/Personalis_validated_PlatGen_X.tsv -b /PlatGen/X.bam hs37d5.fa /input_VCF/Personalis_validated_X.vcf > /svviz_output/Personalis_validated_PlatGen_X.log

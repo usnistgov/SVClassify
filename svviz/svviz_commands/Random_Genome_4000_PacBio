@@ -1,0 +1,45 @@
+svviz --type batch --summary /svviz_output/Random_Genome_4000_PacBio_1.tsv --pacbio -b /PacBio/1.bam hs37d5.fa /input_vcf/Random_Genome_4000_1.vcf > /svviz_output/Random_Genome_4000_PacBio_1.log
+
+svviz --type batch --summary /svviz_output/Random_Genome_4000_PacBio_2.tsv --pacbio -b /PacBio/2.bam hs37d5.fa /input_vcf/Random_Genome_4000_2.vcf > /svviz_output/Random_Genome_4000_PacBio_2.log
+
+svviz --type batch --summary /svviz_output/Random_Genome_4000_PacBio_3.tsv --pacbio -b /PacBio/3.bam hs37d5.fa /input_vcf/Random_Genome_4000_3.vcf > /svviz_output/Random_Genome_4000_PacBio_3.log
+
+svviz --type batch --summary /svviz_output/Random_Genome_4000_PacBio_4.tsv --pacbio -b /PacBio/4.bam hs37d5.fa /input_vcf/Random_Genome_4000_4.vcf > /svviz_output/Random_Genome_4000_PacBio_4.log
+
+svviz --type batch --summary /svviz_output/Random_Genome_4000_PacBio_5.tsv --pacbio -b /PacBio/5.bam hs37d5.fa /input_vcf/Random_Genome_4000_5.vcf > /svviz_output/Random_Genome_4000_PacBio_5.log
+
+svviz --type batch --summary /svviz_output/Random_Genome_4000_PacBio_6.tsv --pacbio -b /PacBio/6.bam hs37d5.fa /input_vcf/Random_Genome_4000_6.vcf > /svviz_output/Random_Genome_4000_PacBio_6.log
+
+svviz --type batch --summary /svviz_output/Random_Genome_4000_PacBio_7.tsv --pacbio -b /PacBio/7.bam hs37d5.fa /input_vcf/Random_Genome_4000_7.vcf > /svviz_output/Random_Genome_4000_PacBio_7.log
+
+svviz --type batch --summary /svviz_output/Random_Genome_4000_PacBio_8.tsv --pacbio -b /PacBio/8.bam hs37d5.fa /input_vcf/Random_Genome_4000_8.vcf > /svviz_output/Random_Genome_4000_PacBio_8.log
+
+svviz --type batch --summary /svviz_output/Random_Genome_4000_PacBio_9.tsv --pacbio -b /PacBio/9.bam hs37d5.fa /input_vcf/Random_Genome_4000_9.vcf > /svviz_output/Random_Genome_4000_PacBio_9.log
+
+svviz --type batch --summary /svviz_output/Random_Genome_4000_PacBio_10.tsv --pacbio -b /PacBio/10.bam hs37d5.fa /input_vcf/Random_Genome_4000_10.vcf > /svviz_output/Random_Genome_4000_PacBio_10.log
+
+svviz --type batch --summary /svviz_output/Random_Genome_4000_PacBio_11.tsv --pacbio -b /PacBio/11.bam hs37d5.fa /input_vcf/Random_Genome_4000_11.vcf > /svviz_output/Random_Genome_4000_PacBio_11.log
+
+svviz --type batch --summary /svviz_output/Random_Genome_4000_PacBio_12.tsv --pacbio -b /PacBio/12.bam hs37d5.fa /input_vcf/Random_Genome_4000_12.vcf > /svviz_output/Random_Genome_4000_PacBio_12.log
+
+svviz --type batch --summary /svviz_output/Random_Genome_4000_PacBio_13.tsv --pacbio -b /PacBio/13.bam hs37d5.fa /input_vcf/Random_Genome_4000_13.vcf > /svviz_output/Random_Genome_4000_PacBio_13.log
+
+svviz --type batch --summary /svviz_output/Random_Genome_4000_PacBio_14.tsv --pacbio -b /PacBio/14.bam hs37d5.fa /input_vcf/Random_Genome_4000_14.vcf > /svviz_output/Random_Genome_4000_PacBio_14.log
+
+svviz --type batch --summary /svviz_output/Random_Genome_4000_PacBio_15.tsv --pacbio -b /PacBio/15.bam hs37d5.fa /input_vcf/Random_Genome_4000_15.vcf > /svviz_output/Random_Genome_4000_PacBio_15.log
+
+svviz --type batch --summary /svviz_output/Random_Genome_4000_PacBio_16.tsv --pacbio -b /PacBio/16.bam hs37d5.fa /input_vcf/Random_Genome_4000_16.vcf > /svviz_output/Random_Genome_4000_PacBio_16.log
+
+svviz --type batch --summary /svviz_output/Random_Genome_4000_PacBio_17.tsv --pacbio -b /PacBio/17.bam hs37d5.fa /input_vcf/Random_Genome_4000_17.vcf > /svviz_output/Random_Genome_4000_PacBio_17.log
+
+svviz --type batch --summary /svviz_output/Random_Genome_4000_PacBio_18.tsv --pacbio -b /PacBio/18.bam hs37d5.fa /input_vcf/Random_Genome_4000_18.vcf > /svviz_output/Random_Genome_4000_PacBio_18.log
+
+svviz --type batch --summary /svviz_output/Random_Genome_4000_PacBio_19.tsv --pacbio -b /PacBio/19.bam hs37d5.fa /input_vcf/Random_Genome_4000_19.vcf > /svviz_output/Random_Genome_4000_PacBio_19.log
+
+svviz --type batch --summary /svviz_output/Random_Genome_4000_PacBio_20.tsv --pacbio -b /PacBio/20.bam hs37d5.fa /input_vcf/Random_Genome_4000_20.vcf > /svviz_output/Random_Genome_4000_PacBio_20.log
+
+svviz --type batch --summary /svviz_output/Random_Genome_4000_PacBio_21.tsv --pacbio -b /PacBio/21.bam hs37d5.fa /input_vcf/Random_Genome_4000_21.vcf > /svviz_output/Random_Genome_4000_PacBio_21.log
+
+svviz --type batch --summary /svviz_output/Random_Genome_4000_PacBio_22.tsv --pacbio -b /PacBio/22.bam hs37d5.fa /input_vcf/Random_Genome_4000_22.vcf > /svviz_output/Random_Genome_4000_PacBio_22.log
+
+svviz --type batch --summary /svviz_output/Random_Genome_4000_PacBio_X.tsv --pacbio -b /PacBio/X.bam hs37d5.fa /input_vcf/Random_Genome_4000_X.vcf > /svviz_output/Random_Genome_4000_PacBio_X.log

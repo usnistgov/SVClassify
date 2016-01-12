@@ -1,0 +1,14 @@
+variant	sample	allele	key	value
+Insertion::18:41,314,876;len=232	18	alt	count	11
+Insertion::18:41,314,876;len=232	18	amb	count	183
+Insertion::18:41,314,876;len=232	18	alt	reason_alignmentScore	11
+Insertion::18:41,314,876;len=232	18	amb	reason_alignmentScore_alignmentScore	64
+Insertion::18:41,314,876;len=232	18	amb	reason_same_scores	119
+Insertion::18:41,314,876;len=232	18	alt	alnScore_mean	3229.72727273
+Insertion::18:41,314,876;len=232	18	alt	alnScore_std	2008.25297623
+Insertion::18:41,314,876;len=232	18	amb	alnScore_mean	2902.94535519
+Insertion::18:41,314,876;len=232	18	amb	alnScore_std	2305.43379209
+Insertion::18:41,314,876;len=232	18	alt	insertSize_mean	2078.09090909
+Insertion::18:41,314,876;len=232	18	alt	insertSize_std	1228.57999736
+Insertion::18:41,314,876;len=232	18	amb	insertSize_mean	1967.04371585
+Insertion::18:41,314,876;len=232	18	amb	insertSize_std	1501.04363994

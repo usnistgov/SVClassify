@@ -1,0 +1,18 @@
+##fileformat=VCFv4.0
+##fileDate=20150306
+##reference=hs37d5
+##INFO=<ID=END,Number=1,Type=Integer,Description="End position of the variant described in this record">
+##INFO=<ID=SVTYPE,Number=1,Type=String,Description="Type of structural variant">
+##ALT=<ID=INS,Description="Insertion of novel sequence">
+##ALT=<ID=INS,Description="Deletion">
+#CHROM POS ID REF ALT QUAL FILTER INFO
+22 23832730 1 . . . . SVTYPE=DEL;END=23833037
+22 24363082 2 . . . . SVTYPE=DEL;END=24363388
+22 25250803 3 . . . . SVTYPE=DEL;END=25250880
+22 25513267 4 . . . . SVTYPE=DEL;END=25513332
+22 26184768 5 . . . . SVTYPE=DEL;END=26184971
+22 26754344 6 . . . . SVTYPE=DEL;END=26754414
+22 26945343 7 . . . . SVTYPE=DEL;END=26945652
+22 43143040 8 . . . . SVTYPE=DEL;END=43143139
+22 45067572 9 . . . . SVTYPE=DEL;END=45067776
+22 45285183 10 . . . . SVTYPE=DEL;END=45285298

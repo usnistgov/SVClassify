@@ -1,0 +1,15 @@
+variant	sample	allele	key	value
+Deletion::14:80,106,289-80,115,049(8760)	14	amb	count	137
+Deletion::14:80,106,289-80,115,049(8760)	14	ref	count	30
+Deletion::14:80,106,289-80,115,049(8760)	14	amb	reason_alignmentScore_alignmentScore	54
+Deletion::14:80,106,289-80,115,049(8760)	14	amb	reason_multimapping	1
+Deletion::14:80,106,289-80,115,049(8760)	14	amb	reason_same_scores	82
+Deletion::14:80,106,289-80,115,049(8760)	14	ref	reason_alignmentScore	30
+Deletion::14:80,106,289-80,115,049(8760)	14	amb	alnScore_mean	2976.7080292
+Deletion::14:80,106,289-80,115,049(8760)	14	amb	alnScore_std	2502.33841049
+Deletion::14:80,106,289-80,115,049(8760)	14	ref	alnScore_mean	5480.66666667
+Deletion::14:80,106,289-80,115,049(8760)	14	ref	alnScore_std	4433.69744369
+Deletion::14:80,106,289-80,115,049(8760)	14	amb	insertSize_mean	2071.42335766
+Deletion::14:80,106,289-80,115,049(8760)	14	amb	insertSize_std	1725.72382242
+Deletion::14:80,106,289-80,115,049(8760)	14	ref	insertSize_mean	3608.3
+Deletion::14:80,106,289-80,115,049(8760)	14	ref	insertSize_std	2877.56262776

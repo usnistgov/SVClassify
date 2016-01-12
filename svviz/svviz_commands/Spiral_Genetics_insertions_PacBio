@@ -1,0 +1,43 @@
+svviz --type batch --summary /svviz_output/Spiral_Genetics_insertions_PacBio_1.tsv --pacbio -b /PacBio/1.bam hs37d5.fa /input_vcf/Spiral_Genetics_insertions_1.vcf > /svviz_output/Spiral_Genetics_insertions_PacBio_1.log
+
+svviz --type batch --summary /svviz_output/Spiral_Genetics_insertions_PacBio_2.tsv --pacbio -b /PacBio/2.bam hs37d5.fa /input_vcf/Spiral_Genetics_insertions_2.vcf > /svviz_output/Spiral_Genetics_insertions_PacBio_2.log
+
+svviz --type batch --summary /svviz_output/Spiral_Genetics_insertions_PacBio_3.tsv --pacbio -b /PacBio/3.bam hs37d5.fa /input_vcf/Spiral_Genetics_insertions_3.vcf > /svviz_output/Spiral_Genetics_insertions_PacBio_3.log
+
+svviz --type batch --summary /svviz_output/Spiral_Genetics_insertions_PacBio_4.tsv --pacbio -b /PacBio/4.bam hs37d5.fa /input_vcf/Spiral_Genetics_insertions_4.vcf > /svviz_output/Spiral_Genetics_insertions_PacBio_4.log
+
+svviz --type batch --summary /svviz_output/Spiral_Genetics_insertions_PacBio_5.tsv --pacbio -b /PacBio/5.bam hs37d5.fa /input_vcf/Spiral_Genetics_insertions_5.vcf > /svviz_output/Spiral_Genetics_insertions_PacBio_5.log
+
+svviz --type batch --summary /svviz_output/Spiral_Genetics_insertions_PacBio_6.tsv --pacbio -b /PacBio/6.bam hs37d5.fa /input_vcf/Spiral_Genetics_insertions_6.vcf > /svviz_output/Spiral_Genetics_insertions_PacBio_6.log
+
+svviz --type batch --summary /svviz_output/Spiral_Genetics_insertions_PacBio_7.tsv --pacbio -b /PacBio/7.bam hs37d5.fa /input_vcf/Spiral_Genetics_insertions_7.vcf > /svviz_output/Spiral_Genetics_insertions_PacBio_7.log
+
+svviz --type batch --summary /svviz_output/Spiral_Genetics_insertions_PacBio_8.tsv --pacbio -b /PacBio/8.bam hs37d5.fa /input_vcf/Spiral_Genetics_insertions_8.vcf > /svviz_output/Spiral_Genetics_insertions_PacBio_8.log
+
+svviz --type batch --summary /svviz_output/Spiral_Genetics_insertions_PacBio_9.tsv --pacbio -b /PacBio/9.bam hs37d5.fa /input_vcf/Spiral_Genetics_insertions_9.vcf > /svviz_output/Spiral_Genetics_insertions_PacBio_9.log
+
+svviz --type batch --summary /svviz_output/Spiral_Genetics_insertions_PacBio_10.tsv --pacbio -b /PacBio/10.bam hs37d5.fa /input_vcf/Spiral_Genetics_insertions_10.vcf > /svviz_output/Spiral_Genetics_insertions_PacBio_10.log
+
+svviz --type batch --summary /svviz_output/Spiral_Genetics_insertions_PacBio_11.tsv --pacbio -b /PacBio/11.bam hs37d5.fa /input_vcf/Spiral_Genetics_insertions_11.vcf > /svviz_output/Spiral_Genetics_insertions_PacBio_11.log
+
+svviz --type batch --summary /svviz_output/Spiral_Genetics_insertions_PacBio_12.tsv --pacbio -b /PacBio/12.bam hs37d5.fa /input_vcf/Spiral_Genetics_insertions_12.vcf > /svviz_output/Spiral_Genetics_insertions_PacBio_12.log
+
+svviz --type batch --summary /svviz_output/Spiral_Genetics_insertions_PacBio_13.tsv --pacbio -b /PacBio/13.bam hs37d5.fa /input_vcf/Spiral_Genetics_insertions_13.vcf > /svviz_output/Spiral_Genetics_insertions_PacBio_13.log
+
+svviz --type batch --summary /svviz_output/Spiral_Genetics_insertions_PacBio_14.tsv --pacbio -b /PacBio/14.bam hs37d5.fa /input_vcf/Spiral_Genetics_insertions_14.vcf > /svviz_output/Spiral_Genetics_insertions_PacBio_14.log
+
+svviz --type batch --summary /svviz_output/Spiral_Genetics_insertions_PacBio_15.tsv --pacbio -b /PacBio/15.bam hs37d5.fa /input_vcf/Spiral_Genetics_insertions_15.vcf > /svviz_output/Spiral_Genetics_insertions_PacBio_15.log
+
+svviz --type batch --summary /svviz_output/Spiral_Genetics_insertions_PacBio_16.tsv --pacbio -b /PacBio/16.bam hs37d5.fa /input_vcf/Spiral_Genetics_insertions_16.vcf > /svviz_output/Spiral_Genetics_insertions_PacBio_16.log
+
+svviz --type batch --summary /svviz_output/Spiral_Genetics_insertions_PacBio_17.tsv --pacbio -b /PacBio/17.bam hs37d5.fa /input_vcf/Spiral_Genetics_insertions_17.vcf > /svviz_output/Spiral_Genetics_insertions_PacBio_17.log
+
+svviz --type batch --summary /svviz_output/Spiral_Genetics_insertions_PacBio_18.tsv --pacbio -b /PacBio/18.bam hs37d5.fa /input_vcf/Spiral_Genetics_insertions_18.vcf > /svviz_output/Spiral_Genetics_insertions_PacBio_18.log
+
+svviz --type batch --summary /svviz_output/Spiral_Genetics_insertions_PacBio_19.tsv --pacbio -b /PacBio/19.bam hs37d5.fa /input_vcf/Spiral_Genetics_insertions_19.vcf > /svviz_output/Spiral_Genetics_insertions_PacBio_19.log
+
+svviz --type batch --summary /svviz_output/Spiral_Genetics_insertions_PacBio_20.tsv --pacbio -b /PacBio/20.bam hs37d5.fa /input_vcf/Spiral_Genetics_insertions_20.vcf > /svviz_output/Spiral_Genetics_insertions_PacBio_20.log
+
+svviz --type batch --summary /svviz_output/Spiral_Genetics_insertions_PacBio_21.tsv --pacbio -b /PacBio/21.bam hs37d5.fa /input_vcf/Spiral_Genetics_insertions_21.vcf > /svviz_output/Spiral_Genetics_insertions_PacBio_21.log
+
+svviz --type batch --summary /svviz_output/Spiral_Genetics_insertions_PacBio_22.tsv --pacbio -b /PacBio/22.bam hs37d5.fa /input_vcf/Spiral_Genetics_insertions_22.vcf > /svviz_output/Spiral_Genetics_insertions_PacBio_22.log

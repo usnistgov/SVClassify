@@ -1,0 +1,45 @@
+svviz --type batch --summary /svviz_output/Random_Genome_4000_Moleculo_1.tsv -b /Moleculo/1.bam hs37d5.fa /input_vcf/Random_Genome_4000_1.vcf > /svviz_output/Random_Genome_4000_Moleculo_1.log
+
+svviz --type batch --summary /svviz_output/Random_Genome_4000_Moleculo_2.tsv -b /Moleculo/2.bam hs37d5.fa /input_vcf/Random_Genome_4000_2.vcf > /svviz_output/Random_Genome_4000_Moleculo_2.log
+
+svviz --type batch --summary /svviz_output/Random_Genome_4000_Moleculo_3.tsv -b /Moleculo/3.bam hs37d5.fa /input_vcf/Random_Genome_4000_3.vcf > /svviz_output/Random_Genome_4000_Moleculo_3.log
+
+svviz --type batch --summary /svviz_output/Random_Genome_4000_Moleculo_4.tsv -b /Moleculo/4.bam hs37d5.fa /input_vcf/Random_Genome_4000_4.vcf > /svviz_output/Random_Genome_4000_Moleculo_4.log
+
+svviz --type batch --summary /svviz_output/Random_Genome_4000_Moleculo_5.tsv -b /Moleculo/5.bam hs37d5.fa /input_vcf/Random_Genome_4000_5.vcf > /svviz_output/Random_Genome_4000_Moleculo_5.log
+
+svviz --type batch --summary /svviz_output/Random_Genome_4000_Moleculo_6.tsv -b /Moleculo/6.bam hs37d5.fa /input_vcf/Random_Genome_4000_6.vcf > /svviz_output/Random_Genome_4000_Moleculo_6.log
+
+svviz --type batch --summary /svviz_output/Random_Genome_4000_Moleculo_7.tsv -b /Moleculo/7.bam hs37d5.fa /input_vcf/Random_Genome_4000_7.vcf > /svviz_output/Random_Genome_4000_Moleculo_7.log
+
+svviz --type batch --summary /svviz_output/Random_Genome_4000_Moleculo_8.tsv -b /Moleculo/8.bam hs37d5.fa /input_vcf/Random_Genome_4000_8.vcf > /svviz_output/Random_Genome_4000_Moleculo_8.log
+
+svviz --type batch --summary /svviz_output/Random_Genome_4000_Moleculo_9.tsv -b /Moleculo/9.bam hs37d5.fa /input_vcf/Random_Genome_4000_9.vcf > /svviz_output/Random_Genome_4000_Moleculo_9.log
+
+svviz --type batch --summary /svviz_output/Random_Genome_4000_Moleculo_10.tsv -b /Moleculo/10.bam hs37d5.fa /input_vcf/Random_Genome_4000_10.vcf > /svviz_output/Random_Genome_4000_Moleculo_10.log
+
+svviz --type batch --summary /svviz_output/Random_Genome_4000_Moleculo_11.tsv -b /Moleculo/11.bam hs37d5.fa /input_vcf/Random_Genome_4000_11.vcf > /svviz_output/Random_Genome_4000_Moleculo_11.log
+
+svviz --type batch --summary /svviz_output/Random_Genome_4000_Moleculo_12.tsv -b /Moleculo/12.bam hs37d5.fa /input_vcf/Random_Genome_4000_12.vcf > /svviz_output/Random_Genome_4000_Moleculo_12.log
+
+svviz --type batch --summary /svviz_output/Random_Genome_4000_Moleculo_13.tsv -b /Moleculo/13.bam hs37d5.fa /input_vcf/Random_Genome_4000_13.vcf > /svviz_output/Random_Genome_4000_Moleculo_13.log
+
+svviz --type batch --summary /svviz_output/Random_Genome_4000_Moleculo_14.tsv -b /Moleculo/14.bam hs37d5.fa /input_vcf/Random_Genome_4000_14.vcf > /svviz_output/Random_Genome_4000_Moleculo_14.log
+
+svviz --type batch --summary /svviz_output/Random_Genome_4000_Moleculo_15.tsv -b /Moleculo/15.bam hs37d5.fa /input_vcf/Random_Genome_4000_15.vcf > /svviz_output/Random_Genome_4000_Moleculo_15.log
+
+svviz --type batch --summary /svviz_output/Random_Genome_4000_Moleculo_16.tsv -b /Moleculo/16.bam hs37d5.fa /input_vcf/Random_Genome_4000_16.vcf > /svviz_output/Random_Genome_4000_Moleculo_16.log
+
+svviz --type batch --summary /svviz_output/Random_Genome_4000_Moleculo_17.tsv -b /Moleculo/17.bam hs37d5.fa /input_vcf/Random_Genome_4000_17.vcf > /svviz_output/Random_Genome_4000_Moleculo_17.log
+
+svviz --type batch --summary /svviz_output/Random_Genome_4000_Moleculo_18.tsv -b /Moleculo/18.bam hs37d5.fa /input_vcf/Random_Genome_4000_18.vcf > /svviz_output/Random_Genome_4000_Moleculo_18.log
+
+svviz --type batch --summary /svviz_output/Random_Genome_4000_Moleculo_19.tsv -b /Moleculo/19.bam hs37d5.fa /input_vcf/Random_Genome_4000_19.vcf > /svviz_output/Random_Genome_4000_Moleculo_19.log
+
+svviz --type batch --summary /svviz_output/Random_Genome_4000_Moleculo_20.tsv -b /Moleculo/20.bam hs37d5.fa /input_vcf/Random_Genome_4000_20.vcf > /svviz_output/Random_Genome_4000_Moleculo_20.log
+
+svviz --type batch --summary /svviz_output/Random_Genome_4000_Moleculo_21.tsv -b /Moleculo/21.bam hs37d5.fa /input_vcf/Random_Genome_4000_21.vcf > /svviz_output/Random_Genome_4000_Moleculo_21.log
+
+svviz --type batch --summary /svviz_output/Random_Genome_4000_Moleculo_22.tsv -b /Moleculo/22.bam hs37d5.fa /input_vcf/Random_Genome_4000_22.vcf > /svviz_output/Random_Genome_4000_Moleculo_22.log
+
+svviz --type batch --summary /svviz_output/Random_Genome_4000_Moleculo_X.tsv -b /Moleculo/X.bam hs37d5.fa /input_vcf/Random_Genome_4000_X.vcf > /svviz_output/Random_Genome_4000_Moleculo_X.log

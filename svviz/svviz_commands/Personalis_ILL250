@@ -1,0 +1,45 @@
+svviz --type batch --summary /svviz_output/Personalis_ILL250_1.tsv -b /ILL250/1.bam hs37d5.fa /input_vcf/Personalis_1.vcf > /svviz_output/Personalis_ILL250_1.log
+
+svviz --type batch --summary /svviz_output/Personalis_ILL250_2.tsv -b /ILL250/2.bam hs37d5.fa /input_vcf/Personalis_2.vcf > /svviz_output/Personalis_ILL250_2.log
+
+svviz --type batch --summary /svviz_output/Personalis_ILL250_3.tsv -b /ILL250/3.bam hs37d5.fa /input_vcf/Personalis_3.vcf > /svviz_output/Personalis_ILL250_3.log
+
+svviz --type batch --summary /svviz_output/Personalis_ILL250_4.tsv -b /ILL250/4.bam hs37d5.fa /input_vcf/Personalis_4.vcf > /svviz_output/Personalis_ILL250_4.log
+
+svviz --type batch --summary /svviz_output/Personalis_ILL250_5.tsv -b /ILL250/5.bam hs37d5.fa /input_vcf/Personalis_5.vcf > /svviz_output/Personalis_ILL250_5.log
+
+svviz --type batch --summary /svviz_output/Personalis_ILL250_6.tsv -b /ILL250/6.bam hs37d5.fa /input_vcf/Personalis_6.vcf > /svviz_output/Personalis_ILL250_6.log
+
+svviz --type batch --summary /svviz_output/Personalis_ILL250_7.tsv -b /ILL250/7.bam hs37d5.fa /input_vcf/Personalis_7.vcf > /svviz_output/Personalis_ILL250_7.log
+
+svviz --type batch --summary /svviz_output/Personalis_ILL250_8.tsv -b /ILL250/8.bam hs37d5.fa /input_vcf/Personalis_8.vcf > /svviz_output/Personalis_ILL250_8.log
+
+svviz --type batch --summary /svviz_output/Personalis_ILL250_9.tsv -b /ILL250/9.bam hs37d5.fa /input_vcf/Personalis_9.vcf > /svviz_output/Personalis_ILL250_9.log
+
+svviz --type batch --summary /svviz_output/Personalis_ILL250_10.tsv -b /ILL250/10.bam hs37d5.fa /input_vcf/Personalis_10.vcf > /svviz_output/Personalis_ILL250_10.log
+
+svviz --type batch --summary /svviz_output/Personalis_ILL250_11.tsv -b /ILL250/11.bam hs37d5.fa /input_vcf/Personalis_11.vcf > /svviz_output/Personalis_ILL250_11.log
+
+svviz --type batch --summary /svviz_output/Personalis_ILL250_12.tsv -b /ILL250/12.bam hs37d5.fa /input_vcf/Personalis_12.vcf > /svviz_output/Personalis_ILL250_12.log
+
+svviz --type batch --summary /svviz_output/Personalis_ILL250_13.tsv -b /ILL250/13.bam hs37d5.fa /input_vcf/Personalis_13.vcf > /svviz_output/Personalis_ILL250_13.log
+
+svviz --type batch --summary /svviz_output/Personalis_ILL250_14.tsv -b /ILL250/14.bam hs37d5.fa /input_vcf/Personalis_14.vcf > /svviz_output/Personalis_ILL250_14.log
+
+svviz --type batch --summary /svviz_output/Personalis_ILL250_15.tsv -b /ILL250/15.bam hs37d5.fa /input_vcf/Personalis_15.vcf > /svviz_output/Personalis_ILL250_15.log
+
+svviz --type batch --summary /svviz_output/Personalis_ILL250_16.tsv -b /ILL250/16.bam hs37d5.fa /input_vcf/Personalis_16.vcf > /svviz_output/Personalis_ILL250_16.log
+
+svviz --type batch --summary /svviz_output/Personalis_ILL250_17.tsv -b /ILL250/17.bam hs37d5.fa /input_vcf/Personalis_17.vcf > /svviz_output/Personalis_ILL250_17.log
+
+svviz --type batch --summary /svviz_output/Personalis_ILL250_18.tsv -b /ILL250/18.bam hs37d5.fa /input_vcf/Personalis_18.vcf > /svviz_output/Personalis_ILL250_18.log
+
+svviz --type batch --summary /svviz_output/Personalis_ILL250_19.tsv -b /ILL250/19.bam hs37d5.fa /input_vcf/Personalis_19.vcf > /svviz_output/Personalis_ILL250_19.log
+
+svviz --type batch --summary /svviz_output/Personalis_ILL250_20.tsv -b /ILL250/20.bam hs37d5.fa /input_vcf/Personalis_20.vcf > /svviz_output/Personalis_ILL250_20.log
+
+svviz --type batch --summary /svviz_output/Personalis_ILL250_21.tsv -b /ILL250/21.bam hs37d5.fa /input_vcf/Personalis_21.vcf > /svviz_output/Personalis_ILL250_21.log
+
+svviz --type batch --summary /svviz_output/Personalis_ILL250_22.tsv -b /ILL250/22.bam hs37d5.fa /input_vcf/Personalis_22.vcf > /svviz_output/Personalis_ILL250_22.log
+
+svviz --type batch --summary /svviz_output/Personalis_ILL250_X.tsv -b /ILL250/X.bam hs37d5.fa /input_vcf/Personalis_X.vcf > /svviz_output/Personalis_ILL250_X.log
