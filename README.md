@@ -1,2 +1,0 @@
-# SVCLassify
-Hemang Parikh
